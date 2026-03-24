@@ -1,11 +1,11 @@
-# CodSoft Python Internship
+# # CodSoft Python Internship
 
 This repository contains the projects I completed during my Python Programming Internship at CodSoft.
 
 ## 🔹 Tasks Completed
 1. Calculator
 2. Password Generator
-3. To-Do List
+3. Rock Paper Scissors
 
 ## 🔹 Project Details
 
@@ -15,11 +15,11 @@ A simple Python program that performs basic arithmetic operations like addition,
 ### 2. Password Generator
 A Python program that generates strong and random passwords based on user-defined length.
 
-### 3. To-Do List
-A task management application that allows users to add, update, and delete tasks.
+### 3. Rock Paper Scissors
+A fun Python game where the user plays against the computer. The program randomly selects rock, paper, or scissors and determines the winner based on game rules.
 
 ## 🔹 Technologies Used
 - Python
 
 ## 🔹 Author
-Your Name
+  Shanti Rajak 
